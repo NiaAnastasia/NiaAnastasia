@@ -21,7 +21,11 @@ Hi, I'm Anastasia 👋<br><br>💻 Fullstack Developer — React · TypeScript �
 </picture>
 
 # 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=NiaAnastasia&theme=tokyonight&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=NiaAnastasia&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=NiaAnastasia&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=NiaAnastasia&theme=tokyonight&hide_border=true" />
+</picture>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NiaAnastasia&icon=9&color=0)](https://visitcount.itsvg.in)

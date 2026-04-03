@@ -13,6 +13,13 @@ Hi, I'm Anastasia 👋<br><br>💻 Fullstack Developer — React · TypeScript �
 ### 🐍 My Contributions
 ![snake gif](https://github.com/NiaAnastasia/NiaAnastasia/blob/output/github-snake-dark.svg)
 
+### 🦖 Run!
+<p align="left">
+  <img src="dino-run.gif" width="80" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...catch me if you can! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="me-run.gif" width="80" />
+</p>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=NiaAnastasia&icon=9&color=0)](https://visitcount.itsvg.in)
 

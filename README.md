@@ -14,12 +14,6 @@ Hi, I'm Anastasia 👋<br><br>💻 Fullstack Developer — React · TypeScript �
 
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NiaAnastasia&theme=tokyonight&hide_border=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NiaAnastasia&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NiaAnastasia&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
 ### 🐍 My Contributions
 ![snake gif](https://github.com/NiaAnastasia/NiaAnastasia/blob/output/github-snake-dark.svg)
 

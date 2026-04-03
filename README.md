@@ -18,6 +18,9 @@ Hi, I'm Anastasia 👋<br><br>💻 Fullstack Developer — React · TypeScript �
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NiaAnastasia&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+### 🐍 My Contributions
+![snake gif](https://github.com/NiaAnastasia/NiaAnastasia/blob/output/github-snake-dark.svg)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=NiaAnastasia&icon=9&color=0)](https://visitcount.itsvg.in)
 
